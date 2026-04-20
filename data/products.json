@@ -1,0 +1,42 @@
+[
+  {
+    "id": "prod_01",
+    "name": "Geometric Vase",
+    "price": 45.00,
+    "image": "https://images.unsplash.com/photo-1703221561813-cdaa308cf9e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "category": "Home Decor",
+    "description": "An elegant 3D printed geometric vase.",
+    "materials": ["Matte Black", "Silk Gold"],
+    "sizes": ["Small", "Medium"]
+  },
+  {
+    "id": "prod_02",
+    "name": "Abstract Sculpture",
+    "price": 89.00,
+    "image": "https://images.unsplash.com/photo-1759395162380-3f979d9272ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "category": "Miniatures",
+    "description": "Premium 3D printed abstract art piece suitable for modern homes.",
+    "materials": ["Matte Black", "Pearl White", "Metallic Silver"],
+    "sizes": ["Small (100mm)", "Medium (150mm)", "Large (200mm)"]
+  },
+  {
+    "id": "prod_03",
+    "name": "Phone Stand Pro",
+    "price": 32.00,
+    "image": "https://images.unsplash.com/photo-1676300463288-0a1183aef2fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "category": "Gadgets",
+    "description": "Sturdy, adjustable stand for smartphones and small tablets.",
+    "materials": ["Matte Black"],
+    "sizes": ["Standard"]
+  },
+  {
+    "id": "prod_04",
+    "name": "Designer Lamp",
+    "price": 125.00,
+    "image": "https://images.unsplash.com/photo-1772104636810-2e50b22ad8cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+    "category": "Gadgets",
+    "description": "Modern minimalist desk lamp with light diffusion shell.",
+    "materials": ["Pearl White", "Silk Gold"],
+    "sizes": ["Large"]
+  }
+]
